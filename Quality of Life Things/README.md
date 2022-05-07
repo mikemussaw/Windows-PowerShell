@@ -5,3 +5,4 @@ These Microsoft PowerShell scripts will help with quality of life things within 
 - Show hidden and file extension to user
 - Removal of Microsoft OneDrive
 - Disable Flash in IE & Edge
+- Remove bloatware from Windows 10
