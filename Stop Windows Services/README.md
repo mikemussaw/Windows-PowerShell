@@ -1,1 +1,1 @@
-This script all service unnecessary services on a Microsoft Windows operating system.
+This script will stop all unnecessary services on a Microsoft Windows operating system.
